@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FusedLocationProvider</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="required_for_this_app">Please enable GPS to track vehicle location</string>
+    <string name="enable_now">Enable Now</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="enable_location_permission_title">Location permission</string>
+    <string name="enable_location_permission_description">Please allow location permission to track vehicle location</string>
+
+</resources>
